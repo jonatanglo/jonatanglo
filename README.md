@@ -10,7 +10,7 @@
 * **Python** - knowledge of programming basics (variables, loops, conditionals, functions).
 * **Sharepoint** - managing spaces and channels, implementing improvements in platform usage.
 
-### My GitHub portfolio showcases my technical skills.
+### My GitHub portfolio showcases my technical skills and projects.
 ### You can reach me on my [Linkedin](https://www.linkedin.com/in/jglobinski/)!
 
 
